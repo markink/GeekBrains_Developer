@@ -1,0 +1,15 @@
+D:\Project\les2\task6\bin\Debug\net7.0\task6.exe
+D:\Project\les2\task6\bin\Debug\net7.0\task6.deps.json
+D:\Project\les2\task6\bin\Debug\net7.0\task6.runtimeconfig.json
+D:\Project\les2\task6\bin\Debug\net7.0\task6.dll
+D:\Project\les2\task6\bin\Debug\net7.0\task6.pdb
+D:\Project\les2\task6\obj\Debug\net7.0\task6.csproj.AssemblyReference.cache
+D:\Project\les2\task6\obj\Debug\net7.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\les2\task6\obj\Debug\net7.0\task6.AssemblyInfoInputs.cache
+D:\Project\les2\task6\obj\Debug\net7.0\task6.AssemblyInfo.cs
+D:\Project\les2\task6\obj\Debug\net7.0\task6.csproj.CoreCompileInputs.cache
+D:\Project\les2\task6\obj\Debug\net7.0\task6.dll
+D:\Project\les2\task6\obj\Debug\net7.0\refint\task6.dll
+D:\Project\les2\task6\obj\Debug\net7.0\task6.pdb
+D:\Project\les2\task6\obj\Debug\net7.0\task6.genruntimeconfig.cache
+D:\Project\les2\task6\obj\Debug\net7.0\ref\task6.dll

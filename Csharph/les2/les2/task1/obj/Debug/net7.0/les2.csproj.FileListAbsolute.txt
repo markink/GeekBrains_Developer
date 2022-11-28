@@ -1,0 +1,15 @@
+D:\Project\les2\bin\Debug\net7.0\les2.exe
+D:\Project\les2\bin\Debug\net7.0\les2.deps.json
+D:\Project\les2\bin\Debug\net7.0\les2.runtimeconfig.json
+D:\Project\les2\bin\Debug\net7.0\les2.dll
+D:\Project\les2\bin\Debug\net7.0\les2.pdb
+D:\Project\les2\obj\Debug\net7.0\les2.csproj.AssemblyReference.cache
+D:\Project\les2\obj\Debug\net7.0\les2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\les2\obj\Debug\net7.0\les2.AssemblyInfoInputs.cache
+D:\Project\les2\obj\Debug\net7.0\les2.AssemblyInfo.cs
+D:\Project\les2\obj\Debug\net7.0\les2.csproj.CoreCompileInputs.cache
+D:\Project\les2\obj\Debug\net7.0\les2.dll
+D:\Project\les2\obj\Debug\net7.0\refint\les2.dll
+D:\Project\les2\obj\Debug\net7.0\les2.pdb
+D:\Project\les2\obj\Debug\net7.0\les2.genruntimeconfig.cache
+D:\Project\les2\obj\Debug\net7.0\ref\les2.dll
