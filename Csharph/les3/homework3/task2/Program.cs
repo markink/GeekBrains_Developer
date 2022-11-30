@@ -15,7 +15,5 @@ int y2 = Promt("Введите y2");
 int z1 = Promt("Введите z1");
 int z2 = Promt("Введите z2");
 
-int deltax = x1-x2;
-int deltay = y1-y2;
 double distance = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2));
 System.Console.WriteLine(distance);
