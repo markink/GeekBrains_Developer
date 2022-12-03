@@ -23,7 +23,18 @@ void PrintArray(int[] array)
     }
 }
 
-int [] arr = GenerateArray(8, 0, 1);
+int Promt(String message)
+{
+    System.Console.Write(message);
+    return Convert.ToInt32(Console.ReadLine());
+}
+
+int Range = Promt("Введите длину массива ");
+int minValue = Promt("Введите минимальное значение ");
+int maxValue = Promt("Введите максимальное значение ");
+
+
+int [] arr = GenerateArray(Range, minValue, maxValue);
 PrintArray(arr);
 
 
