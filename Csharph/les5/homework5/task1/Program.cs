@@ -6,8 +6,6 @@
 // [345, 897, 568, 234] -> 2
 
 
-
-
 int[] GenerateArray(int Length, int minRange, int maxRange)
 {
 
