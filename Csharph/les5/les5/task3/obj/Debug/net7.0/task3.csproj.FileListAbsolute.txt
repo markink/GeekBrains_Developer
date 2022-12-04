@@ -1,0 +1,15 @@
+D:\Project\Csharph\les5\les5\task3\bin\Debug\net7.0\task3.exe
+D:\Project\Csharph\les5\les5\task3\bin\Debug\net7.0\task3.deps.json
+D:\Project\Csharph\les5\les5\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+D:\Project\Csharph\les5\les5\task3\bin\Debug\net7.0\task3.dll
+D:\Project\Csharph\les5\les5\task3\bin\Debug\net7.0\task3.pdb
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\task3.csproj.AssemblyReference.cache
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\task3.dll
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\refint\task3.dll
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\task3.pdb
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+D:\Project\Csharph\les5\les5\task3\obj\Debug\net7.0\ref\task3.dll
