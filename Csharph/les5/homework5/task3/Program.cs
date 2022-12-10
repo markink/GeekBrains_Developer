@@ -43,8 +43,8 @@ int SumMinMaxValue(int[] array)
     }
     sum = maxValue1 + minValue;
     return sum;
-
 }
+
 
 int Range = Promt("Введите длину массива ");
 int minValue = Promt("Введите минимальное значение ");
