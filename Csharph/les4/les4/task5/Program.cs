@@ -61,11 +61,9 @@ int maxValueIndex(int[] array){
     return maxValue2;
 }
 
-
 int Range = Promt("Введите длину массива ");
 int minValue = Promt("Введите минимальное значение ");
 int maxValue = Promt("Введите максимальное значение ");
-
 
 int [] arr = GenerateArray(Range, minValue, maxValue);
 PrintArray(arr);

@@ -18,7 +18,6 @@ int Rate (int value1, int value2) {
     for (int i = 1; i <= inputValue2; i++) {
         result = result*inputValue1;
     }
-
     return result;
 }
 

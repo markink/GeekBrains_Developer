@@ -17,6 +17,8 @@ int[] GenerateArray(int Length, int minRange, int maxRange)
     return array;
 }
 
+
+
 void PrintArray(int[] array)
 {
     for (int j = 0; j < array.Length; j++)
