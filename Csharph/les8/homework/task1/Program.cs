@@ -62,8 +62,6 @@ int[,] ReverseRowsArrayForBiggestValue(int[,] array)
 
 }
 
-
-
 int m = Prompt("Введите количество строк > ");
 int n = Prompt("Введите колличество столбцов > ");
 

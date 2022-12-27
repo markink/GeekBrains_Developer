@@ -63,7 +63,6 @@ int MinimalSumOfRowsArray (int[,] matr, int rowIndex)
 int m = Prompt("Введите количество строк > ");
 int n = Prompt("Введите колличество столбцов > ");
 
-
 int[,] array = new int[m, n];
 PrintArrayTwo(FillArray(array));
 Console.WriteLine();
