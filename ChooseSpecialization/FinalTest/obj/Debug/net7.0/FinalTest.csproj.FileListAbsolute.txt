@@ -1,0 +1,15 @@
+D:\Project\ChooseSpecialization\FinalTest\bin\Debug\net7.0\FinalTest.exe
+D:\Project\ChooseSpecialization\FinalTest\bin\Debug\net7.0\FinalTest.deps.json
+D:\Project\ChooseSpecialization\FinalTest\bin\Debug\net7.0\FinalTest.runtimeconfig.json
+D:\Project\ChooseSpecialization\FinalTest\bin\Debug\net7.0\FinalTest.dll
+D:\Project\ChooseSpecialization\FinalTest\bin\Debug\net7.0\FinalTest.pdb
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\FinalTest.csproj.AssemblyReference.cache
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfoInputs.cache
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfo.cs
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\FinalTest.csproj.CoreCompileInputs.cache
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\FinalTest.dll
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\refint\FinalTest.dll
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\FinalTest.pdb
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\FinalTest.genruntimeconfig.cache
+D:\Project\ChooseSpecialization\FinalTest\obj\Debug\net7.0\ref\FinalTest.dll

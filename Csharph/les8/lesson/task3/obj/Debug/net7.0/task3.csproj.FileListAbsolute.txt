@@ -1,0 +1,5 @@
+D:\Project\Csharph\les8\lesson\task3\obj\Debug\net7.0\task3.csproj.AssemblyReference.cache
+D:\Project\Csharph\les8\lesson\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Csharph\les8\lesson\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+D:\Project\Csharph\les8\lesson\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+D:\Project\Csharph\les8\lesson\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
